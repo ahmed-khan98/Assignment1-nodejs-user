@@ -1,0 +1,31 @@
+.body{
+  font-family: 'arial';
+}
+.main{
+    padding:20px;
+}
+
+label{
+  padding-top: 10px;
+}
+.user{
+  margin-top:15px;
+}
+h4 {
+  margin: 2rem 0rem 1rem;
+}
+#alert1{
+  margin-top:10px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd8e;
+  color:#000000;
+  
+}
+
+table{
+  background:#555;
+  color:#fff !important;
+  
+}
